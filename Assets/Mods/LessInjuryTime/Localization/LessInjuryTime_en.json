@@ -1,0 +1,6 @@
+{
+  "$INJURY_DATA_MODERATE_name":"Moderate Injury",
+  "$INJURY_DATA_SERIOUS_name":"Serious Injury",
+  "$INJURY_DATA_SEVERE_name":"Severe Injury",
+  "$INJURY_DATA_CRITICAL_name":"Critical Injury"
+}

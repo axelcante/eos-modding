@@ -1,0 +1,4 @@
+{
+  "$Canada":"Canada",
+  "$WeaponProficiencyWarningText":"Due to item and weapon changes, {0:name} has had one or more of {0:gender?his|her|their} items unequipped. Please review {0:gender?him|her|them} before entering combat."
+}

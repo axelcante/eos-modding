@@ -1,0 +1,20 @@
+{
+  "$RACKET_BASE_DATA_BREWERY_SM_BASE_DATA_name":"Small Brewery",
+  "$RACKET_BASE_DATA_BREWERY_M_BASE_DATA_name":"Medium Brewery",
+  "$RACKET_BASE_DATA_BREWERY_LG_BASE_DATA_name":"Large Brewery",
+  "$RACKET_BASE_DATA_BAR_SM_BASE_DATA_name":"Small Speakeasy",
+  "$RACKET_BASE_DATA_BAR_M_BASE_DATA_name":"Medium Speakeasy",
+  "$RACKET_BASE_DATA_BAR_LG_BASE_DATA_name":"Large Speakeasy",
+  "$RACKET_BASE_DATA_CASINO_SM_BASE_DATA_name":"Small Casino",
+  "$RACKET_BASE_DATA_CASINO_M_BASE_DATA_name":"Medium Casino",
+  "$RACKET_BASE_DATA_CASINO_LG_BASE_DATA_name":"Large Casino",
+  "$RACKET_BASE_DATA_BROTHEL_SM_BASE_DATA_name":"Small Brothel",
+  "$RACKET_BASE_DATA_BROTHEL_M_BASE_DATA_name":"Medium Brothel",
+  "$RACKET_BASE_DATA_BROTHEL_LG_BASE_DATA_name":"Large Brothel",
+  "$RACKET_BASE_DATA_SAFEHOUSE_BASE_DATA_name":"Safehouse",
+  "$RACKET_BASE_DATA_HOTEL_SM_BASE_DATA_name":"Small Hotel",
+  "$RACKET_BASE_DATA_HOTEL_M_BASE_DATA_name":"Medium Hotel",
+  "$RACKET_BASE_DATA_HOTEL_LG_BASE_DATA_name":"Large Hotel",
+  "$RACKET_BASE_DATA_LOAN_SHARK_BASE_DATA_name":"Loan Shark",
+  "$RACKET_BASE_DATA_DEPOT_BASE_DATA_name":"Depot"
+}

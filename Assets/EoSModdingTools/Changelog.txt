@@ -1,0 +1,52 @@
+# Empire of Sin Modding Tools Changelog
+
+## [1.0.0] - 2021-10-20
+### Changed
+- Removed NDA notice from license
+
+## [0.0.8] - 2021-10-20
+### Changed
+- Use production Paradox Mods environment
+- Improve error message when login to Paradox Mods fails
+
+## [0.0.7] - 2021-10-18
+### Changed
+- Create Lua/Scripts folder by default when creating a new mod
+- Errors during publishing are now displayed in a popup dialog
+
+### Fixed
+- "View Modding Documentation" button now links to correct wiki page
+
+## [0.0.6] - 2021-10-11
+### Changed
+- Disable string reference check in LocalizationProcessor (not necessary)
+- Fail to publish if mod contains zero files
+
+### Fixed
+- BR Parser now uses invariant culture when parsing numbers
+
+## [0.0.5] - 2021-10-09
+### Changed
+- Preview images must be <1mb and in jpg format so Steam will accept them
+- Use production Paradox Mods server for publishing
+
+## [0.0.4] - 2021-09-27
+### Changed
+- Updated list of supported modding tags
+
+## [0.0.3] - 2021-09-03
+### Changed
+- Separated GameSource.zip and EoSModdingTools.unitypackage
+- Updated Images/Preview.jpg with a better looking template image
+- Improved validation and error handling for Paradox Mods and Steam Workshop publishing
+- Automatically remove spaces and detect invalid path characters in entered mod name
+
+## [0.0.2] - 2021-09-02
+### Changed
+- Local publish now works if title, description, preview image have not been set yet
+- Added translated localization files to GameData.zip for reference
+
+## [0.0.1] - 2021-09-01
+### Changed
+- Preview image must now selected from the ModConfig editor in the inspector window. This is less error prone than previous approach using an image asset.
+- Improved validation and error handling when publishing to Steam Workshop and Paradox Mods
