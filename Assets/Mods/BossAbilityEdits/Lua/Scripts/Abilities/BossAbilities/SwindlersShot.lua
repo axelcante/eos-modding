@@ -173,7 +173,7 @@ function addAoeLine(aoe, x, y, abilityInfo)
     else
         sx, sy = abilityInfo:getActionPosition()
     end
-    return aoe:addThroughLine(nil, nil, nil, nil, nil, true) -- Mod: removes the orange floor marker between targets (was bugged and persisted between maps)
+    return aoe:addThroughLine(sx, sy, x, y, nil, true)
 end
 
 _id = "SWINDLERS_SHOT_MARK"

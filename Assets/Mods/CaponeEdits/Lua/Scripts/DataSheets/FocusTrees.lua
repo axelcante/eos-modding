@@ -747,7 +747,7 @@ tier = 1
 
 --[[------------------------------------------------------------------------------
 Outfit Boss Talent Tree Node 02
-Rain Fire
+MODDED: Bolster the Ranks
 --------------------------------------------------------------------------------]]
 
 _id = "OUTFIT_BOSS_TALENT_TREE_NODE_02"
@@ -789,7 +789,7 @@ Outfit Boss Talent Tree Node 06
 _id = "OUTFIT_BOSS_TALENT_TREE_NODE_06"
 tree = "OUTFIT_BOSS_TALENT_TREE"
 tier = 2
-abilityCard = "LIFELINE"
+abilityCard = "DRAW_FIRE"
 
 --[[------------------------------------------------------------------------------
 Outfit Boss Talent Tree Node 07
@@ -834,7 +834,7 @@ Outfit Boss Talent Tree Node 11
 _id = "OUTFIT_BOSS_TALENT_TREE_NODE_11"
 tree = "OUTFIT_BOSS_TALENT_TREE"
 tier = 4
-abilityCard = "COVERING_FIRE"
+abilityCard = "LOW_PROFILE"
 
 --[[------------------------------------------------------------------------------
 Outfit Boss Talent Tree Node 12

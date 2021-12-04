@@ -56,7 +56,7 @@ startingTalents = {}
 startingTalents.FLUSH = true
 startingTalents.SUBMACHINE_GUN_TRAINING = true
 startingTalents.SUCKER_PUNCH = true
-startingTalents.POISON_TIPPED_BLADE = true
+startingTalents.LOW_PROFILE = true
 
 --[[------------------------------------------------------------------------------
 Rpc 28
@@ -66,8 +66,8 @@ _id = "RPC_28"
 startingTalents = {}
 startingTalents.MARK_TARGET = true
 startingTalents.STRIKE_AND_MOVE = true
-startingTalents.GUT_SHOT = true
-startingTalents.SNIPER_RIFLE_TRAINING = true
+startingTalents.RUN_AND_GUN = true
+startingTalents.RAPID_RELOAD = true
 
 --[[------------------------------------------------------------------------------
 Rpc 29
@@ -87,7 +87,7 @@ Rpc 32
 _id = "RPC_32"
 startingTalents = {}
 startingTalents.DOCTOR_HEAL = true
-startingTalents.LIFELINE = true
+startingTalents.SURGICAL_PRECISION = true
 startingTalents.REMEDY = true
 startingTalents.MALPRACTICE = true
 
@@ -212,7 +212,7 @@ Rpc 45
 _id = "RPC_45"
 startingTalents = {}
 startingTalents.FLUSH = true
-startingTalents.PICK_POCKET = true
+startingTalents.SUBMACHINE_GUN_TRAINING = true
 startingTalents.DOUBLE_TAP = true
 
 --[[------------------------------------------------------------------------------
@@ -252,8 +252,8 @@ Rpc 58
 _id = "RPC_58"
 startingTalents = {}
 startingTalents.DOCTOR_HEAL = true
-startingTalents.SHOTGUN_TRAINING = true
-startingTalents.HACK_AND_SLASH = true
+startingTalents.SURGICAL_PRECISION = true
+startingTalents.REMEDY = true
 
 --[[------------------------------------------------------------------------------
 Rpc 11
