@@ -8,7 +8,7 @@ ConfigBuilder.define("STORES",
     {
         name = "$Black_Market", --$ Black Market
         lootDropGenerateStockFn = "generateBlackMarketStock",
-        resupplyFrequency = 15, -- Mod
+        resupplyFrequency = 20, -- Mod
 
     --[[---------------------------------------------
     HANDGUNS

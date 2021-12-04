@@ -165,7 +165,7 @@ Swindlers Shot
 
 _id = "SWINDLERS_SHOT"
 cost = 1
-killsCooldown = 0 -- Mod (temp)
+killsCooldown = 3 
 maxPerTurn = 1
 endsTurn = true
 validBeforeCombat = true

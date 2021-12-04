@@ -872,7 +872,7 @@ local function selectNeighborhoods(n)
     return _results
 end
 
-local function assignNeighborhoodToPlayer()
+local function assignNeighborhoodToPlayer() -- Mod
     local playerFaction = World.playerFaction
 
     if playerFaction == World.getFaction("FACTION.THE_OUTFIT") then --If selecting The Outfit, starting neighborhood is Little Italy
@@ -880,7 +880,7 @@ local function assignNeighborhoodToPlayer()
     elseif playerFaction == World.getFaction("FACTION.HIP_SING_TONG") then
         return "WARD.NEIGHBORHOOD_04" --If selecting Hip Sing Tong, starting neighborhood is Chinatown
     elseif playerFaction == World.getFaction("FACTION.ALLEY_CATS") then
-        return "WARD.NEIGHBORHOOD_08" --If selecting Alley Cats, starting neighborhood is Fulton Market
+        return "WARD.NEIGHBORHOOD_10" --If selecting Alley Cats, starting neighborhood is Municipal Pier
     elseif playerFaction == World.getFaction("FACTION.FORTUNE_TELLERS") then
         return "WARD.NEIGHBORHOOD_02" --If selecting Fortune Tellers, starting neighborhood is South Loop
     else

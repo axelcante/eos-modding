@@ -129,7 +129,7 @@ function onAddConfirmedTarget(target, abilityInfo)
 
     local actionInfo = turnContext.actionInformation
 
-    actionInfo:setPreviewPosition(target:getGridPosXY()) -- Maybe here??? MOD MOD MOD
+    actionInfo:setPreviewPosition(target:getGridPosXY())
     CombatUtils:updateLineOfSightTargets(actionInfo)
     -- Move target to the next guy.
     if cycleTarget then
@@ -173,7 +173,7 @@ function addAoeLine(aoe, x, y, abilityInfo)
     else
         sx, sy = abilityInfo:getActionPosition()
     end
-    return aoe:addThroughLine(sx, sy, x, y, nil, true)
+    return aoe:addThroughLine(nil, nil, nil, nil, nil, true) -- Mod: removes the orange floor marker between targets (was bugged and persisted between maps)
 end
 
 _id = "SWINDLERS_SHOT_MARK"
