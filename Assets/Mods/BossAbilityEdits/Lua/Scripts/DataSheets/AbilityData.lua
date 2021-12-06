@@ -234,10 +234,10 @@ Bullet Shield
 --------------------------------------------------------------------------------]]
 
 _id = "BULLET_SHIELD"
-cost = 2
+cost = 1
 cooldown = 5
 maxPerTurn = 1
-endsTurn = true
+endsTurn = false
 validBeforeCombat = true
 startsCombat = false
 

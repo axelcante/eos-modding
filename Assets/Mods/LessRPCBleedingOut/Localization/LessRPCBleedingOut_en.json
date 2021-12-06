@@ -1,0 +1,19 @@
+{
+  "$Modifier_BaseMarksmanship":"Base Marksmanship",
+  "$Modifier_BaseDefense":"Base Defense",
+  "$Modifier_BaseIntimidation":"Base Intimidation",
+  "$Modifier_BaseLeadership":"Base Leadership",
+  "$Modifier_Passive_Healing":"Passive Healing",
+  "$Modifier_BaseInitiative":"Base Initiative",
+  "$Modifier_BaseMovement":"Base Movement",
+  "$Modifier_BasePersuasion":"Base Persuasion",
+  "$Modifier_GunBreakChance":"Chance Degraded Gun Breaks",
+  "$Modifier_ThrowDistance":"Throw Distance",
+  "$Modifier_HalfCover":"Half Cover",
+  "$Modifier_FullCover":"Full Cover",
+  "$Modifier_BaseActionPoints":"Base Action Points",
+  "$BaseFlipChance":"Base Flip Chance",
+  "$BaseLeaveWhenDemotedChance":"Base Chance to Leave when Demoted",
+  "$MarksmanshipCritBonus":"Bonus Crit",
+  "$Modifier_Thievery":"Thievery"
+}

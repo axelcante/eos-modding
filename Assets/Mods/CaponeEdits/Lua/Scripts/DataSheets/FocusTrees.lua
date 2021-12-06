@@ -2126,7 +2126,7 @@ Hipsingtong Boss Talent Tree Node 04
 _id = "HIPSINGTONG_BOSS_TALENT_TREE_NODE_04"
 tree = "HIPSINGTONG_BOSS_TALENT_TREE"
 tier = 2
-abilityCard = "SURVIVOR"
+abilityCard = "SURGICAL_PRECISION"
 
 --[[------------------------------------------------------------------------------
 Hipsingtong Boss Talent Tree Node 05

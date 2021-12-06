@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ab8a12292da1104c99038e28c8e9681, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  Title: LessRPCBleedingOut
+  GameVersion: 
+  ShortDescription: This reduces the chance that an RPC (gangster) bleeds out
+  LongDescription: 'In the base game the RPC bleeding out chance is based on morale
+    divided by 10 and with an arbitrary +50 value added to the result. This means
+    that a gangster with 500 morale will always bleed out instead of dying.
+
+
+    I
+    liked the idea of my gangsters being able to sometimes bleed out but also die,
+    which allowed me to vary my playthroughs with different gangsters as the games
+    went on.
+
+
+    This mod removes the +50 value so that the maximum chance a gangster
+    has of bleeding out is 50/50.'
+  ChangeNotes: 
+  PreviewImageData: 
+  PreviewImageFilename: 
+  Tags: []
+  LocalModsPath: C:/Users/axelc/AppData/LocalLow/RomeroGames/EmpireOfSin/Mods
+  SteamWorkshopId: 0
+  ParadoxModsId: 0
+  ParadoxEmail: 
+  ParadoxPassword: 

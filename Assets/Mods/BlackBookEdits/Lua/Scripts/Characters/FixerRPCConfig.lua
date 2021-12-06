@@ -135,7 +135,7 @@ name = "$CHARACTER_DATA_RPC_62_name" --$ Ada Santos Souza
 firstName = "$CHARACTER_DATA_RPC_62_firstName" --$ Ada
 lastName = "$CHARACTER_DATA_RPC_62_lastName" --$ Santos Souza
 gender = "Female"
-tier = 5
+tier = 2
 description = "$CHARACTER_DATA_RPC_62_description" --$ Doctor Ada Santos Souza grew up in Sao Paulo to a wealthy family that fell on hard times. But though her circumstances changed, her tastes did not, and Doctor Souza used her high class connections to commit high class crimes, selling museum artifacts on the black market. But she found a taste for adventure that pushed her to take even greater risks. This resulted in one of her co-conspirators turning her in to save their own skin, and she tumbled down into the underground where her circle of influence only grew larger.
 background = "$CHARACTER_DATA_RPC_62_background" --$ Growing up privileged with a top class education, Souza's missteps have nevertheless taken her into Chicago's criminal underworld. But with the thrill of high-stakes adventure attached, she has found she may be exactly where she belongs.
 age = 46
@@ -146,12 +146,12 @@ dlcGangster = true
 ADA SANTOS SOUZA - RPC DATA
 --------------------------------------------------------------------------------]]
 empireTalentGroup = "Speakeasy"
-hireCost = 3500
-takeFloor = 200
-take = 0.04
+hireCost = 12000
+takeFloor = 800
+take = 0.16
 rpc = {}
 rpc.loyalty = 1
-notorietyGate = 10
+notorietyGate = 530
 profession = "Fixer"
 
 --[[------------------------------------------------------------------------------
