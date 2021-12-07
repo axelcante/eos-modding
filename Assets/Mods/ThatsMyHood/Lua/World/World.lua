@@ -883,6 +883,28 @@ local function assignNeighborhoodToPlayer() -- Mod
         return "WARD.NEIGHBORHOOD_10" --If selecting Alley Cats, starting neighborhood is Municipal Pier
     elseif playerFaction == World.getFaction("FACTION.FORTUNE_TELLERS") then
         return "WARD.NEIGHBORHOOD_02" --If selecting Fortune Tellers, starting neighborhood is South Loop
+    elseif playerFaction == World.getFaction("FACTION.VICE_KINGS") then
+        return "WARD.NEIGHBORHOOD_01" --If selecting Vice Kings, starting neighborhood is Loop
+    elseif playerFaction == World.getFaction("FACTION.LOS_LUCEROS") then
+        return "WARD.NEIGHBORHOOD_03" --If selecting Los Luceros, starting neighborhood is Near South Side
+    elseif playerFaction == World.getFaction("FACTION.THE_NORTHSIDE_MOB") then
+        return "WARD.NEIGHBORHOOD_09" --If selecting The Northside Mob, starting neighborhood is Near North Side
+    elseif playerFaction == World.getFaction("FACTION.LOS_HIJOS") then
+        return "WARD.NEIGHBORHOOD_02" --If selecting Los Hijos, starting neighborhood is South Loop
+    elseif playerFaction == World.getFaction("FACTION.THE_DONOVANS") then
+        return "WARD.NEIGHBORHOOD_09" --If selecting The Donovans, starting neighborhood is South Loop
+    elseif playerFaction == World.getFaction("FACTION.SALTIS_MCERLANE") then
+        return "WARD.NEIGHBORHOOD_05" --If selecting Saltis Gang, starting neighborhood is East Pilsen
+    elseif playerFaction == World.getFaction("FACTION.RAGENS_COLTS") then
+        return "WARD.NEIGHBORHOOD_01" --If selecting Ragen's Colts, starting neighborhood is Loop
+    elseif playerFaction == World.getFaction("FACTION.CARD_SHARKS") then
+        return "WARD.NEIGHBORHOOD_03" --If selecting Card Sharks, starting neighborhood is South Loop
+    elseif playerFaction == World.getFaction("FACTION.GENNA_CRIME_FAMILY") then
+        return "WARD.NEIGHBORHOOD_06" --If selecting Genna Crime Family, starting neighborhood is Little Italy
+    elseif playerFaction == World.getFaction("FACTION.WHITE_CITY_CIRCUS") then
+        return "WARD.NEIGHBORHOOD_08" --If selecting White City Circus, starting neighborhood is Fulton Market
+    elseif playerFaction == World.getFaction("FACTION.MURDER_INC") then
+        return "WARD.NEIGHBORHOOD_07" --If selecting Murder Inc., starting neighborhood is West Loop Gate
     else
         return nil
     end
